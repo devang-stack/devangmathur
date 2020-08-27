@@ -1,3 +1,5 @@
 [user]
 	name = Devang Mathur
 	email = masterdevang@gmail.com
+[core]
+	autocrlf = false

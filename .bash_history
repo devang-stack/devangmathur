@@ -60,3 +60,14 @@ git reset
 git status
 git add
 git add .
+git reset
+rm -f .git/index.lock
+git reset
+/f/devang
+git init
+git add .
+git commit -m "Initial commit"
+'/f/git project/preexsistingfile'
+git init
+git add .
+git commit -m "Initial Commit"
